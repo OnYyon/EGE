@@ -1,4 +1,4 @@
-with open("5.txt", "r") as f:
+with open("../data/5.txt", "r") as f:
     line = f.readline()
     cnt = 0
     for i in range(len(line)):

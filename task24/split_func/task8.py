@@ -1,4 +1,4 @@
-with open("s2.txt", "r") as f:
+with open("../data/s2.txt", "r") as f:
     d = {}
     data = f.read()
     for i in range(len(data) - 1):

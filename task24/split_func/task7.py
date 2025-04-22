@@ -1,4 +1,4 @@
-f = open('s1.txt')
+f = open('../data/s1.txt')
 otv = 0
 
 for s in f:
